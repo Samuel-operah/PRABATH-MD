@@ -7,7 +7,7 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "2349041192332",
       "required": true
     },
     "SESSION_ID": {
@@ -15,7 +15,7 @@
       "required": true
     },
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "https://github.com/Samuel-operah/PRABATH-MD.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
